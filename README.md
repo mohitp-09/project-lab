@@ -13,9 +13,16 @@ This repo is a curated collection of backend-oriented projects, cloned frontend 
 - 🧩 Integrations with cloned or simple frontends
 - ⚙️ Projects I build while following YouTube tutorials or exploring ideas on my own
 
-> 🏷️ You’ll notice a naming pattern across folders:  
-> - Projects that end with `-YT` are built while following YouTube tutorials — often with modifications, added features, or structure improvements as I learn new concepts.  
-> - Others without the suffix are fully self-initiated projects built from scratch.
+> 🏷️ Folder Naming Convention:
+> - Folder names follow the format: `ProjectName-ProjectType[-YT]`
+> - `ProjectType` can be one of:
+>   - `UIOnly`: Frontend practice only
+>   - `Clone`: Cloned version of an existing website/app
+>   - `miniProject`: Small, focused projects built to practice concepts
+>   - `Project`: Full-featured apps with proper structure and UI
+> - Projects ending with `-YT` were built by following YouTube tutorials, often enhanced with personal modifications
+> - Projects **without** the `-YT` suffix are self-initiated and built from scratch
+
 
 ---
 
