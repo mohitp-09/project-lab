@@ -14,7 +14,7 @@ This repo is a curated collection of backend-oriented projects, cloned frontend 
 - ⚙️ Projects I build while following YouTube tutorials or exploring ideas on my own
 
 > 🏷️ You’ll notice a naming pattern across folders:  
-> - Projects that end with `-yt` are built while following YouTube tutorials. 
+> - Projects that end with `-YT` are built while following YouTube tutorials. 
 > - Others without the prefix are self-initiated projects built from scratch.
 
 ---
