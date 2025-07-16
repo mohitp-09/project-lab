@@ -1,6 +1,10 @@
 const mongoose =  require('mongoose');
+require('dotenv').config();
+// const dbgr = require('debug')("devlopment:mongoose");
 
-mongoose.connect('mongodb://localhost:27017/scatch')
+const url = process.env.MONGO_URI;
+
+mongoose.connect(url)
 .then(()=>{
     console.log("connected to db");
 })
